@@ -10,6 +10,7 @@
     "test-ct": "playwright test -c playwright-ct.config.ts"
   },
   "dependencies": {
+    "bootstrap": "^5.3.8",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
   },
