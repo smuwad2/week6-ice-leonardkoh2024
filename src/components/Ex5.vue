@@ -8,7 +8,7 @@ export default {
             imageUrl: '/assets/head1.jpg',
             bgColor: '#f5f5f5',
             textColor: '#333',
-            themes: ['dark', 'light', 'neon'],
+            themes: ['light','neon','dark'],
             currentThemeIndex: 0
         }
     },
